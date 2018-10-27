@@ -6,4 +6,5 @@ public class Constants {
     public static final int MESSAGE_WRITE = 2;
 
     public static final int ACTION_STATE_CHANGE = 3;
+    public static final int NEW_CONSTANT = 4;
 }
